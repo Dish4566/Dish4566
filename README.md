@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dish4566
+- 🙂 I'm just here to store my files (like everyone else)
+- 😋 I'm good and Java and know some Python (and a litte bit of C# for Unity)
+- So yeah, bye!
