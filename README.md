@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Dish4566
+- 👋 Hi, I’m @Dish4566 or Dish
 - 🙂 I'm just here to store my files (like everyone else)
-- 😋 I'm good and Java and know some Python (and a litte bit of C# for Unity)
-- So yeah, bye!
+- 👩‍💻 Here's a list of the langs I know:
+  - Java (learned first)
+  - HTML, CSS, & JS (decent at them)
+  - Python (not that much)
+  - #C (very small amount)
+- Thank you for reading :D
