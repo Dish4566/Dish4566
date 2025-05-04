@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dish4566 or Dish
-- 🙂 I'm just here to store my files (like everyone else)
-- 👩‍💻 Here's a list of the langs I know:
-  - Java (learned first)
-  - HTML, CSS, & JS (decent at them)
-  - Python (not that much)
-  - #C (very small amount)
+- 👋 Hi, I’m Dishi
+- 🙂 I'm just here to store stuff :P
+- 👩‍💻 Here's a list of the stuff I know:
+  - C++
+  - Java
+  - HTML, CSS, & JS
+  - Python
 - Thank you for reading :D
